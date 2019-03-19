@@ -13,7 +13,7 @@ public class Greeting {
 	}
 
 	public static void main(String[] args) {
-		Greeting g = new Greeting("Hello, Hans!");
+		Greeting g = new Greeting("Korbinian");
 		g.greet();
 	}
 }
